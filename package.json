@@ -1,0 +1,17 @@
+{
+  "name": "koa2-wechat",
+  "version": "1.0.0",
+  "description": "connect to wechat platform with koa2",
+  "main": "server.js",
+  "keywords": [
+    "wechat",
+    "koa2"
+  ],
+  "author": "dcirplan@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.0.1",
+    "koa-router": "^7.0.1",
+    "xml2js": "^0.4.17"
+  }
+}

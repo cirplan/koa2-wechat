@@ -1,6 +1,6 @@
 #koa2-wechat
 
-[博文记录](http://jeffdeng.me/wx/2017/03/13/wx-platform-conect.html)
+[博文记录](http://cirplan.github.io/wx/2017/03/13/wx-platform-conect.html)
 
 ## run
 
